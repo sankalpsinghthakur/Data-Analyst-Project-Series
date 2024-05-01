@@ -54,26 +54,42 @@ Here is the Power Bi Dashbord:
 
  Data Preparation with Python
 Data Loading: Load the weather dataset using Python libraries such as Pandas.
+
 Data Cleaning:
+
 Handle missing values: Use techniques such as imputation or deletion based on the extent of missingness and domain knowledge.
 Outlier detection and treatment: Identify outliers using statistical methods or visualization techniques, and decide whether to remove them or apply transformations.
 Address inconsistencies: Check for any inconsistencies in the data such as incorrect data types, unrealistic values, or duplicate entries, and handle them appropriately.
+
 Data Preprocessing:
+
 Convert categorical variables to numerical: If there are categorical variables in the dataset, encode them using techniques such as one-hot encoding or label encoding.
 Feature scaling: Standardize or normalize numerical features to bring them to a similar scale, which can improve the performance of certain machine learning algorithms.
 Feature engineering: Create new features or transform existing ones to capture additional information that may be useful for analysis or prediction.
+
 Correlation Analysis:
+
 Calculate correlation coefficients between different weather parameters to identify relationships.
 Visualize correlations using a heatmap or other appropriate plots to highlight significant associations.
+
 Regression Analysis:
+
 Implement linear regression or other regression models to predict one weather parameter based on others.
 Evaluate the performance of the regression model using metrics such as mean squared error or R-squared.
 Data Connection: Connect to the cleaned and preprocessed dataset in Power BI or Tableau.
+
 Visualization and Dashboard Creation:
+
 Create interactive visualizations such as line charts, bar charts, scatter plots, and maps to explore various weather parameters over time or geographical regions.
 Design dashboards to present key insights and trends in the weather data.
 Utilize slicers, filters, and drill-down features to enable users to interactively explore the data.
+
 Advanced Analysis:
+
 Conduct trend analysis to identify long-term patterns or seasonal variations in weather parameters.
 Perform geographical analysis to examine spatial variations in weather conditions.
 Use forecasting techniques to predict future weather trends based on historical data.
+![correlation_matrix](https://github.com/sankalpsinghthakur/Data-Analyst-Project-Series/assets/102253297/fcba61f4-4430-4c60-b455-6827125b740f)
+
+![regression_curve](https://github.com/sankalpsinghthakur/Data-Analyst-Project-Series/assets/102253297/3cc0daad-22d4-4b9b-a361-f6b3f5d8d7fa)
+
