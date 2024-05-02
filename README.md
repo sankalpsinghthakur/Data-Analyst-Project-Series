@@ -93,3 +93,10 @@ Use forecasting techniques to predict future weather trends based on historical 
 
 ![regression_curve](https://github.com/sankalpsinghthakur/Data-Analyst-Project-Series/assets/102253297/3cc0daad-22d4-4b9b-a361-f6b3f5d8d7fa)
 
+DATA VISUALIZATION USING POWERBI:
+
+This documentation outlines the process of creating a pie chart in Power BI to visualize the distribution of weather conditions across various months. It provides step-by-step instructions, starting with loading the weather dataset and culminating in the creation of a pie chart that effectively represents the distribution. The documentation assumes basic familiarity with Power BI functionalities and requires a dataset containing weather information, including columns for "Weather" and "Date." With this guide, users can efficiently analyze and communicate seasonal weather patterns using Power BI's visualization capabilities.
+
+
+![image](https://github.com/sankalpsinghthakur/Data-Analyst-Project-Series/assets/102253297/ceecd6a8-414b-439a-988d-96a738960abf)
+
